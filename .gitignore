@@ -1,0 +1,12 @@
+
+### Build
+target/
+jars/*.jar
+
+### vertx
+
+.vertx/
+
+### Node
+
+node_modules/
